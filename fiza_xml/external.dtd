@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT company (employe* , client)>
+<!ELEMENT employe (name,email,password,number)>
+<!ELEMENT client (name,email,password)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT password (#PCDATA)>
+<!ELEMENT number (#PCDATA)>
+
+<!ATTLIST email domain CDATA #FIXED "google">

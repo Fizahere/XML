@@ -1,0 +1,79 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<aptech>
+
+<faculty xmlns:f1="abc">
+<name>Ali</name>
+<age>22</age>
+<designation>faculty</designation>
+</faculty>
+
+<faculty xmlns:f2="xyz">
+    <name>Ali</name>
+    <age>22</age>
+    <designation>faculty</designation>
+    </faculty>
+
+    <faculty xmlns:f3="xyz">
+        <name>Ali</name>
+        <age>22</age>
+        <designation>faculty</designation>
+        </faculty>
+
+        <faculty xmlns:f4="xyz">
+ <name>Ali</name>
+<age>22</age>
+<designation>faculty</designation>
+</faculty>
+
+ <faculty>
+<name>Ali</name>
+ <age>22</age>
+<designation>faculty</designation>
+</faculty>
+
+ <faculty>
+ <name>Ali</name>
+<age>22</age>
+ <designation>faculty</designation>
+</faculty>
+
+ <faculty>
+ <name>Ali</name>
+ <age>22</age>
+  <designation>faculty</designation>
+ </faculty>
+
+                        
+   <faculty>
+  <name>Ali</name>
+   <age>22</age>
+ <designation>faculty</designation>
+ </faculty>
+ <faculty>
+  <name>Ali</name>
+  <age>22</age>
+ <designation>faculty</designation>
+</faculty>
+
+ <faculty>
+  <name>Ali</name>
+  <age>22</age>
+     <designation>faculty</designation>
+ </faculty>
+<faculty>
+   <name>Ali</name>
+     <age>22</age>
+<designation>faculty</designation>
+   </faculty>
+  <faculty>
+   <name>Ali</name>
+    <age>22</age>
+   <designation>faculty</designation>
+     </faculty>
+     <faculty>
+    <name>Ali</name>
+     <age>22</age>
+    <designation>faculty</designation>
+   </faculty>
+                                                                                                                                                                        
+</aptech>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema.xsd" type="application/xml"?>
+
+<bio>
+
+    <student_name>ali</student_name>
+    <email>ali@gmail.com</email>
+    <password>4l657</password>
+
+</bio>

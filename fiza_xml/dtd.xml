@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE biodata [
+    <!ELEMENT biodata (students*,employes*)>
+    <!ELEMENT students (name,age,qualification)>
+    <!ELEMENT employes (name,age,qualification)>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT age (#PCDATA)>
+    <!ELEMENT qualification (#PCDATA)>
+    <!ATTLIST name center CDATA #REQUIRED >
+
+    <!ENTITY xyz "hello world">
+]>
+<biodata>
+
+    <students>
+        <name center="SHAHARAH-E-faisal">ali &xyz;</name>
+        <age>22</age>
+        <qualification>msc</qualification>
+    </students>
+    <students>
+        <name center="metro">ali</name>
+        <age>22</age>
+        <qualification>msc</qualification>
+    </students>
+
+
+    <employes>
+            <name center="metro">ali</name>
+            <age>22</age>
+            <qualification>msc</qualification>
+    </employes>
+    <employes>
+        <name center="metro">ali</name>
+        <age>22</age>
+        <qualification>msc</qualification>
+</employes>
+
+</biodata>
